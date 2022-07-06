@@ -4,17 +4,13 @@
  *
  * Return: 0
  */
-lnt main(void)
+Char *sh[] = '_putchar'
+int x = 0;
+While (*sh[x] != '\0')
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+_putchar(*sh[x]);
+x++;}
+_putchar('\n');
 
 	return (0);
 }
