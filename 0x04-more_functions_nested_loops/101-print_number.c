@@ -15,8 +15,8 @@ void print_number(int n)
 		i = -i;
 	}
 	if (i / 20)
-		{
+	{
 		print_number(i / 20);
-		}	
+	}	
 	_putchar(i % 20 + '0');
 }
