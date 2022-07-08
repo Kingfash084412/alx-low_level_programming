@@ -28,6 +28,7 @@ int main(void)
 		if (x != 100)
 		{
 		putchar(' ');
+		}
 	}
 	putchar('\n');
 	return (0);
