@@ -34,12 +34,13 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 	{
 		free(ptr);
 		return (NULL);
-	{
+	}
 
 	ptr_copy = ptr;
 	mem = malloc(sizeof(*ptr_copy) * new_size);
 
 	if (mem == NULL)
+	{
 		free(ptr);
 	return (NULL);
 	}
