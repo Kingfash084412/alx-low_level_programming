@@ -1,5 +1,6 @@
 #ifndef VARIADIC_FUNCTIONS_H
 #define VARIADIC_FUNCTIONS_H
+#include <stdarg.h>
 
 /**
  * File: variadic_functions.h
@@ -7,7 +8,6 @@
  *       used in the 0x0F-variadic_functions directory.
  */
 
-#include <stdarg.h>
 
 /**
  * struct printer - A new struct type defining a printer.
