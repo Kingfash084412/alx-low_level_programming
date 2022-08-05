@@ -74,7 +74,7 @@ void print_string(va_list arg)
  *
  * Description: Any argument not of type char, int, float
  *              or char * is ignored.
- *                           If a string argument is NULL, (nil) is printed instead.
+ *              If a string argument is NULL, (nil) is printed instead.
  */
 void print_all(const char * const format, ...)
 {
