@@ -3,27 +3,15 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 #include <stddef.h>
+#include <string.h>
 
 /**
- * File: lists.h
- * Auth: Gedeon Obae Gekonge
- * Desc: Header file containing prototypes and definitions for all functions
- *       and types written in the 0x11-singly_linked_lists directory.
- */
-
-#include <stdlib.h>
-
-/**
- * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
- * @len: length of the string
- * @next: points to the next node
- *
- * Description: singly linked list node structure
- *              for Holberton project
- */
+ *  * struct list_s - singly linked list
+ *   * @str: string - (malloc'ed string)
+ *    * @len: length of the string
+ *     * @next: points to the next node
+ *      */
 typedef struct list_s
 {
 	char *str;
