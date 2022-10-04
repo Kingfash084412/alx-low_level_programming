@@ -1,5 +1,2 @@
-A script called create_static_lib.sh that creates a static library called liball.a from all the .cfiles that are in the current directory.
-
-
-
-chmod u+x create_static_lib.sh ./create_static_lib.sh
+# 0x18-dynamic_libraries
+In this project, I learnt how to create dynamic libraries from modules and use them
