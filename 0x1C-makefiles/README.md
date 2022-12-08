@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/">
+  <img src="https://user-images.githubusercontent.com/104295046/206339417-dab9815d-1e28-444e-8b0c-ce04b3fa8536.png">
 </p>
 
 # 0x1C. C - Makefiles
