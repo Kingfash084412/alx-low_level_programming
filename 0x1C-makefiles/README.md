@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/">
+</p>
+
 # 0x1C. C - Makefiles
 
 
@@ -14,7 +18,7 @@ General
 
 ## Requirements
 
-- All files are created and compiled on Ubuntu 14.04.4 LTS on gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
+- All files are created and compiled on Ubuntu 20.04.4 LTS on gcc 9.3.0 using the flags -Wall -Werror -Wextra and -pedantic
 - All files are linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty)
 
 ## Tasks
